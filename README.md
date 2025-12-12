@@ -65,15 +65,6 @@ Me interesa especialmente:
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=juanpablomainenti&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanpablomainenti&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🎯 Actualmente aprendiendo
 - Spring Boot avanzado (security, testing)   
 - Microservicios  
